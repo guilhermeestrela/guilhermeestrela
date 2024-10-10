@@ -4,7 +4,7 @@ Hello, I'm Guilherme Estrela
 Frontend Engineer
 -----------------
 
-I've been working with Frontend for the past 7 years, currently working with React and NextJS projects.
+I've been working with Frontend for the past 9 years, currently working with React, React Native and NextJS projects.
 
 * 🌍  I'm based in Porto, Portugal 🇵🇹
 * ✉️  You can contact me at [guilherme.estrela92@gmail.com](mailto:guilherme.estrela92@gmail.com)
